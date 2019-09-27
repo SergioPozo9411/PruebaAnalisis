@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\bin\Debug\pizzaconformulario.exe.config
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\bin\Debug\pizzaconformulario.exe
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\bin\Debug\pizzaconformulario.pdb
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\obj\Debug\pizzaconformulario.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\obj\Debug\pizzaconformulario.Form1.resources
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\obj\Debug\pizzaconformulario.Properties.Resources.resources
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\obj\Debug\pizzaconformulario.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\obj\Debug\pizzaconformulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\obj\Debug\pizzaconformulario.exe
+C:\Users\Usuario\source\repos\pizzaconformulario\pizzaconformulario\obj\Debug\pizzaconformulario.pdb
